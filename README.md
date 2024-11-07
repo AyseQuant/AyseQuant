@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyseQuant Ayse Aslihan Koksoy
+- 👋 Hi, I’m Ayse A Koksoy @AyseQuant 
 - 👀 I’m interested in coding in Python, learning new things, nature
 - 🌱 I’m currently learning Cypher 
 - 💞️ I’m looking to collaborate on coding for quantitative analysis, spatial analytics in medicine and biology
