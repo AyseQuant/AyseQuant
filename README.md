@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in medical/biological sciences fields for quantitative analysis and spatial analytics
 - 📫 How to reach me https://www.linkedin.com/in/ayse-a-koksoy
 - 😄 My name Ayse is pronounced as 'I-shay'
-- ⚡ Fun fact: 'Nothing is fun about a fact unless its an artifact.'
+- ⚡ Fun fact: 'Nothing is fun about a fact unless its an artifact.' - just kidding!
 
 <!---
 AyseQuant/AyseQuant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
