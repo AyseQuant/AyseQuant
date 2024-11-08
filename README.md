@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Ayse A Koksoy @AyseQuant 
 - 👀 I’m interested in coding in Python, learning new things, nature
 - 🌱 I’m currently learning Cypher 
-- 💞️ I’m looking to collaborate on coding for quantitative analysis, spatial analytics in medicine and biology
+- 💞️ I’m looking to collaborate on projects in medical/biological sciences fields for quantitative analysis and spatial analytics
 - 📫 How to reach me https://www.linkedin.com/in/ayse-a-koksoy
-- 😄 Pronouns: Dear 
+- 😄 My name Ayse is pronounced as 'I-shay'
 - ⚡ Fun fact: 'Nothing is fun about a fact unless its an artifact.'
 
 <!---
